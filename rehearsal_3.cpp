@@ -1,7 +1,13 @@
 #include <iostream>
-
-//Write sumSqrt() here.
-
+#include <cmath>
+double sumSqrt(r)
+        {double ans=0;
+         while(r <=20){
+            ans=ans+sqrt(r);
+            r++;
+        }
+        }
+        
 
 int main()
 {
