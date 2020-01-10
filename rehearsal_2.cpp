@@ -13,10 +13,11 @@ int main()
     cout << "sum = " << sum;
     }
     
-    if(x >=0)
+    if(x !=0)
     {
     cout << "sum = " << sum+x ;
     }
+    
     
 
 }

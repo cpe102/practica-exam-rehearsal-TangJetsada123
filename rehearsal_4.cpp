@@ -2,15 +2,11 @@
 
 string conpress(string s1)
 int L1 =s1*size();
-if (L1> = 4)
-{
-    return L1
+int L2 =s1*size();
+
+
 }
-    int i=0;
-    string y = "";
-    while(i<L1){
-	y = y + s1[i]+S1[i+3];
-	i++;
+    
 int main()
 {
     string a = conpress("ABCDEFGHIJKLMN");
